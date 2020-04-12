@@ -1,4 +1,7 @@
-Este repositorio tem o Software Anati Quanti. O arquivo anatiquanti.exe
+Este repositorio tem o Software Anati Quanti. 
+
+O arquivo anatiquanti.exe
+
 Para citar o trabalho, favor referenciar o  artigo:
 AGUIAR, T.V.; SANT'ANNA-SANTOS, B.F.; AZEVEDO, A.A.  and  FERREIRA, R.S..
 ANATI QUANTI: software de análises quantitativas para estudos em anatomia vegetal. 
